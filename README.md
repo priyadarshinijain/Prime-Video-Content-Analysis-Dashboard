@@ -23,3 +23,10 @@ Key Insights
 * Popular Genres: Drama and Comedy are the most prevalent genres.
 * Growth Over Time: The number of releases has increased significantly since the early 2000s.
 * This dashboard was created using Tableau and uses data to provide a comprehensive overview of Prime Video's content offerings. It's designed for data enthusiasts interested in understanding streaming service trends.
+
+Radial Chart 
+
+The radial chart is a visually engaging way to show content distribution across different ratings. Its circular structure helps viewers quickly identify the most popular ratings at a glance, as the longest arcs immediately stand out. This can be useful for content managers, marketers, or viewers who are interested in understanding the age-appropriate range of available content. For instance, if a user is looking for family-friendly or child-friendly options, they can easily identify the prevalence of ratings like PG or 7+.
+
+In the context of a streaming platform analysis, this chart can provide insights into the platform’s content strategy, such as the focus on youth-oriented content (e.g., 13+) or adult content (e.g., R and 18+). It also highlights the availability of content without restrictive ratings, indicated by the "ALL" rating category, which is suitable for all age groups.
+
